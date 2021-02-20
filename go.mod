@@ -1,4 +1,4 @@
-module github.com/peter554/text
+module github.com/peter554/txt
 
 go 1.14
 
